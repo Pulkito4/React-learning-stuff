@@ -1,0 +1,1 @@
+create your own react app to know the basics of react and develop an understanding of how react works, what is the work flow and know that it is not some magical thing
